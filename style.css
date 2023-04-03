@@ -5,10 +5,8 @@ p {
 ul {
   margin: 30px auto;
   padding: 0 20px;
-}
-ul {
-font-size: 16px;
-font-family: new times roman;
+  font-size: 16px;
+  font-family: new times roman;
 }
 h1 {
   color: #004E89;
