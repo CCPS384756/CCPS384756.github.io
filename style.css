@@ -1,1 +1,28 @@
-
+p {
+  color: #333;
+   font-size: 16px;
+}
+ul {
+  margin: 30px auto;
+  padding: 0 20px;
+}
+ul }
+font-size: 16px;
+font-family: new times roman;
+}
+h1 {
+  color: #004E89;
+  font-family: 'Yantramanav', sans-serif;
+}
+header {
+  background-color: #466995;
+  border-bottom: 1px solid #466995;
+}
+body {
+  background-color: #FFF;
+  margin: 0 auto;
+}
+footer {
+  background-color: #DBE9EE;
+  text-align: center;
+}
